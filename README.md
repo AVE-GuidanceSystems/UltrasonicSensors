@@ -1,4 +1,4 @@
-# Ultrasonic-Sensor-Test
+# Ultrasonic-Sensors - For Arduino
 Sample code found in the arduino example library
 
 # Eventual Use
